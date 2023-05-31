@@ -1,4 +1,4 @@
-# project-name
+# About this repo
 
 A GitHub Page template, based on React + Vite.
 
