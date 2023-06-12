@@ -15,7 +15,7 @@ npm install -g degit
 
 cd /path/to/your/project-name
 
-degit https://github.com/zb980921/github-page-starter
+degit https://github.com/zb81/github-page-starter
 ```
 
 ## 2. Globally replace `project_name` of your own
